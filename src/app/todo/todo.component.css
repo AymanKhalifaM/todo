@@ -35,7 +35,8 @@ mat-form-field{
 .delete-icon{
     height: 50px;
 line-height: 43px;
-vertical-align: middle
+vertical-align: middle;
+color: red;
 }
 
 .todo-items{
